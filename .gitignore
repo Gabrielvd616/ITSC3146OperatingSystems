@@ -1,0 +1,2 @@
+# Ignore files without extensions (executables)
+!*.*
