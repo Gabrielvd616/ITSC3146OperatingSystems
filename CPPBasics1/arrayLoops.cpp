@@ -15,7 +15,7 @@ int main() {
 	}
 	
 	//Prints the numbers entered by the user in reverse order
-	cout << "Array elements in reverse order:\n";
+	cout << "\nArray elements in reverse order:\n";
 	for(i = 9; i >= 0; i--) {
 		cout << arr[i] << " ";
 	}
@@ -34,7 +34,7 @@ int main() {
 	}
 	
 	//Prints the elements of the array in sorted order
-	cout << "Array elements in sorted order:\n";
+	cout << "\nArray elements in sorted order:\n";
 	for(i = 0; i < 10; i++) {
 		cout << arr[i] << " ";
 	}
