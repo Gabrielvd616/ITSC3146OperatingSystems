@@ -26,5 +26,5 @@ int main() {
     cout << num1 << endl;
     cout << num2 << endl;
     
-	return 0;
+    return 0;
 }
